@@ -33,4 +33,5 @@ out by then.
 
 ### Nice to know
 Right ctrl + f      Full screens VM
+
 Right ctrl + home   Open VM menu
