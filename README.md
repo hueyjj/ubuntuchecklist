@@ -37,6 +37,14 @@ out by then.
 
    Settings > Sound > Sound Effects > Alert volume > OFF
 
+- Firefox
+
+   ublock origin 
+
+   turn off saving password request
+
+   change cycling tab to in order and not recent tab
+
 ### Nice to know
 Right ctrl + f      Full screens VM
 
