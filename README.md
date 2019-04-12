@@ -45,6 +45,8 @@ out by then.
 
    change cycling tab to in order and not recent tab
 
+   about:config > mousewheel.min_line_scroll_amount = 50
+
 ### Nice to know
 Right ctrl + f      Full screens VM
 
