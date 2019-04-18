@@ -47,6 +47,14 @@ out by then.
 
    about:config > mousewheel.min_line_scroll_amount = 50
 
+- VirtualBox ssh
+
+    settings > network > advanced > port forwarding 
+
+    fill out name, host port (3022), guest port (22), leave rest blank, then reset machine
+
+    ssh -p 3022 username@localhost
+
 ### Nice to know
 Right ctrl + f      Full screens VM
 
